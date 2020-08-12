@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>  
+<!DOCTYPE books SYSTEM "books.dtd">
+<books> 
+	<book>
+		<Title> Ikigai: The Japanese secret to a long and happy life </Title>
+		<Author> HECTOR GARCIA </Author>
+		<Genre> LifeStyle </Genre>
+		<Copyright> 2017 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> 978-1786330895 </Isbn>
+		<Publisher> Random House UK </Publisher>
+		<Price> 208 </Price>
+ 	</book>
+ 	<book>
+		<Title> The Theory of Everything </Title>
+		<Author> STEPHEN HAWKING </Author>
+		<Genre> Astronomy </Genre>
+		<Copyright> 2006 </Copyright>
+		<Edition> first</Edition>
+		<Isbn> 978-8179925911 </Isbn>
+		<Publisher> Jaico Publishing House </Publisher>
+		<Price> 140 </Price>
+	</book>
+	<book>
+		<Title> Think and Grow Rich </Title>
+		<Author> NAPOLEAN HILL </Author>
+		<Genre> Business </Genre>
+		<Copyright> 2014 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> 978-8192910918 </Isbn>
+		<Publisher> Amazing Reads </Publisher>
+		<Price> 250 </Price>
+ 	</book>
+ 	<book>
+		<Title> As a Man Thinketh</Title>
+		<Author> JAMES ALLEN </Author>
+		<Genre> Pyschology </Genre>
+		<Copyright> 2017 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> 978-9386538178 </Isbn>
+		<Publisher> Fingerprint! </Publisher>
+		<Price> 96 </Price>
+ 	</book>
+ 	<book>
+		<Title> Sita: Warrior of Mithila </Title>
+		<Author>  AMISH </Author>
+		<Genre> Fiction </Genre>
+		<Copyright> 2017 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> B0727XB6YC </Isbn>
+		<Publisher>Westland</Publisher>
+		<Price> 388 </Price>
+ 	</book>
+</books> 
